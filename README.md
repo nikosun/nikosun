@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 📛 Design Engineer
+- 🎹 Music lover, Keyboardist
+- 📫 How to reach me : @nikosun
+- 😉 My views are my own (he/him) 
+
 <!--
 **nikosun/nikosun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
